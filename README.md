@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/dedSyn4ps3/wails-react-demo/-/raw/main/screenshots/app.png">
+<img src="https://github.com/dedSyn4ps3/wails-react-demo/raw/main/screenshots/app.png">
 </div> 
 
 ## About
